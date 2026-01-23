@@ -199,4 +199,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Start
     loadData();
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 9cd03372f1983aa491a9904e5b40ad75882afcf8
