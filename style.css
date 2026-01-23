@@ -275,8 +275,4 @@ h1 {
 
 .h-amount { font-size: 16px; font-weight: 800; }
 .win .h-amount { color: var(--accent-green); text-shadow: 0 0 10px rgba(16, 185, 129, 0.4); }
-<<<<<<< HEAD
 .loss .h-amount { color: var(--accent-red); }
-=======
-.loss .h-amount { color: var(--accent-red); }
->>>>>>> 9cd03372f1983aa491a9904e5b40ad75882afcf8

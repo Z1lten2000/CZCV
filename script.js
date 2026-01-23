@@ -80,30 +80,35 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function renderHistory() {
-        if (!appData.history || appData.history.length === 0) {
-            historyList.innerHTML = '<div style="text-align:center; color:#666;">Пока нет игр...</div>';
+        // Проверка: существует ли элемент на странице?
+        const historyContainer = document.getElementById('history-list');
+        if (!historyContainer) {
+            console.warn("Блок history-list не найден в HTML");
             return;
         }
 
-        historyList.innerHTML = '';
+        if (!appData.history || appData.history.length === 0) {
+            historyContainer.innerHTML = '<div style="text-align:center; color:#666;">Пока нет игр...</div>';
+            return;
+        }
+
+        historyContainer.innerHTML = '';
         appData.history.forEach(item => {
             const row = document.createElement('div');
-            // Определяем класс: win или loss
             const statusClass = item.is_win ? 'win' : 'loss';
             const sign = item.is_win ? '+' : '';
-            // Первая буква имени для аватарки
-            const avatarChar = item.name.charAt(0).toUpperCase();
+            const avatarChar = item.name ? item.name.charAt(0).toUpperCase() : '?';
             
             row.className = `history-card ${statusClass}`;
             row.innerHTML = `
                 <div class="h-avatar">${avatarChar}</div>
                 <div class="h-info">
-                    <span class="h-name">${item.name}</span>
-                    <span class="h-game">${item.game}</span>
+                    <span class="h-name">${item.name || 'Аноним'}</span>
+                    <span class="h-game">${item.game || 'Игра'}</span>
                 </div>
                 <div class="h-amount">${sign}${item.amount.toLocaleString()}</div>
             `;
-            historyList.appendChild(row);
+            historyContainer.appendChild(row);
         });
     }
 
