@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769209108,
-  "generated_at": 1769209108,
+  "updated_at": 1769209168,
+  "generated_at": 1769209168,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769256000,
@@ -1896,6 +1896,13 @@
   ],
   "history": [
     {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": -200000,
+      "is_win": false
+    },
+    {
       "name": "Danil",
       "username": "voxx_danil",
       "game": "crash",
@@ -2013,13 +2020,6 @@
       "game": "football",
       "amount": -5000,
       "is_win": false
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "football",
-      "amount": 2000,
-      "is_win": true
     },
     {
       "name": "Давид",
