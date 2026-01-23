@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const hhBanner = document.getElementById('hh-banner');
     const hhTimer = document.getElementById('hh-timer');
     const hhStatusText = document.getElementById('hh-status-text');
-    
+    const historyList = document.getElementById('history-list');
     // Глобальные данные
     let appData = null;
     let hhInterval = null;
