@@ -80,12 +80,12 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function renderHistory() {
-        // Мы ищем элемент ПРЯМО внутри функции, чтобы не зависеть от глобальных переменных
+        // Мы ищем элемент прямо здесь, чтобы не зависеть от внешних переменных
         const historyContainer = document.getElementById('history-list');
         
-        // Если вдруг элемента нет в HTML, просто выходим из функции без ошибки
+        // Если блок не найден в HTML, просто выходим, чтобы не вешать весь скрипт
         if (!historyContainer) {
-            console.warn("Предупреждение: Элемент #history-list не найден в HTML");
+            console.error("Критическая ошибка: Элемент #history-list не найден в HTML!");
             return;
         }
 
@@ -100,8 +100,8 @@ document.addEventListener("DOMContentLoaded", () => {
             const statusClass = item.is_win ? 'win' : 'loss';
             const sign = item.is_win ? '+' : '';
             
-            // Защита: если имени нет, ставим "Аноним"
-            const name = item.name || 'Аноним';
+            // Защита от пустых имен
+            const name = item.name || 'Игрок';
             const avatarChar = name.charAt(0).toUpperCase();
             
             row.className = `history-card ${statusClass}`;
@@ -109,14 +109,14 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="h-avatar">${avatarChar}</div>
                 <div class="h-info">
                     <span class="h-name">${name}</span>
-                    <span class="h-game">${item.game || 'Игра'}</span>
+                    <span class="h-game">${item.game || 'Ставка'}</span>
                 </div>
                 <div class="h-amount">${sign}${item.amount.toLocaleString()}</div>
             `;
             historyContainer.appendChild(row);
         });
     }
-
+    
     // 3. Таймер Happy Hour
     function startTimer() {
         if (hhInterval) clearInterval(hhInterval);
