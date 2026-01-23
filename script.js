@@ -80,15 +80,17 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function renderHistory() {
-        // Проверка: существует ли элемент на странице?
+        // Мы ищем элемент ПРЯМО внутри функции, чтобы не зависеть от глобальных переменных
         const historyContainer = document.getElementById('history-list');
+        
+        // Если вдруг элемента нет в HTML, просто выходим из функции без ошибки
         if (!historyContainer) {
-            console.warn("Блок history-list не найден в HTML");
+            console.warn("Предупреждение: Элемент #history-list не найден в HTML");
             return;
         }
 
         if (!appData.history || appData.history.length === 0) {
-            historyContainer.innerHTML = '<div style="text-align:center; color:#666;">Пока нет игр...</div>';
+            historyContainer.innerHTML = '<div style="text-align:center; color:#666; padding: 20px;">Пока нет игр...</div>';
             return;
         }
 
@@ -97,13 +99,16 @@ document.addEventListener("DOMContentLoaded", () => {
             const row = document.createElement('div');
             const statusClass = item.is_win ? 'win' : 'loss';
             const sign = item.is_win ? '+' : '';
-            const avatarChar = item.name ? item.name.charAt(0).toUpperCase() : '?';
+            
+            // Защита: если имени нет, ставим "Аноним"
+            const name = item.name || 'Аноним';
+            const avatarChar = name.charAt(0).toUpperCase();
             
             row.className = `history-card ${statusClass}`;
             row.innerHTML = `
                 <div class="h-avatar">${avatarChar}</div>
                 <div class="h-info">
-                    <span class="h-name">${item.name || 'Аноним'}</span>
+                    <span class="h-name">${name}</span>
                     <span class="h-game">${item.game || 'Игра'}</span>
                 </div>
                 <div class="h-amount">${sign}${item.amount.toLocaleString()}</div>
