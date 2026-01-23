@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769208868,
-  "generated_at": 1769208868,
+  "updated_at": 1769208928,
+  "generated_at": 1769208928,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769256000,
@@ -1899,6 +1899,34 @@
       "name": "Danil",
       "username": "voxx_danil",
       "game": "crash",
+      "amount": 115,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "basketball",
+      "amount": 10000,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "basketball",
+      "amount": -5000,
+      "is_win": false
+    },
+    {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "crash",
+      "amount": 66,
+      "is_win": true
+    },
+    {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "crash",
       "amount": 66,
       "is_win": true
     },
@@ -2005,34 +2033,6 @@
       "username": "RegoKmNj",
       "game": "football",
       "amount": 2000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "football",
-      "amount": 2000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "football",
-      "amount": 1000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "football",
-      "amount": -100,
-      "is_win": false
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "football",
-      "amount": 200,
       "is_win": true
     }
   ]
