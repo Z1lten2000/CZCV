@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // URL к файлу, который генерирует питон
     // Если тестируешь локально, просто 'site_data.json'
     // Если на GitHub, и файл в корне: 'site_data.json'
-    const DATA_URL = 'site_data.json'; 
+    const DATA_URL = 'live_data.json';
     
     // Элементы
     const preloader = document.getElementById('preloader');
