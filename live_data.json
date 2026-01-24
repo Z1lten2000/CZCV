@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769275440,
-  "generated_at": 1769275440,
+  "updated_at": 1769275500,
+  "generated_at": 1769275500,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769256000,
@@ -1898,6 +1898,20 @@
     {
       "name": "ㅤ ㅤ ㅤ ㅤ",
       "username": "tvmafk",
+      "game": "blackjack",
+      "amount": 100000,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": -400000,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
       "game": "bowling",
       "amount": 450000,
       "is_win": true
@@ -2020,20 +2034,6 @@
       "game": "darts",
       "amount": 2000,
       "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "football",
-      "amount": -50000,
-      "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "bowling",
-      "amount": -50000,
-      "is_win": false
     }
   ]
 }
