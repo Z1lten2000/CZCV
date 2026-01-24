@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769271300,
-  "generated_at": 1769271300,
+  "updated_at": 1769271360,
+  "generated_at": 1769271360,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769256000,
@@ -1896,6 +1896,13 @@
   ],
   "history": [
     {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "darts",
+      "amount": 4500,
+      "is_win": true
+    },
+    {
       "name": "Danil",
       "username": "voxx_danil",
       "game": "crash",
@@ -2027,13 +2034,6 @@
       "game": "crash",
       "amount": 66,
       "is_win": true
-    },
-    {
-      "name": "Danil",
-      "username": "voxx_danil",
-      "game": "football",
-      "amount": -10,
-      "is_win": false
     }
   ]
 }
