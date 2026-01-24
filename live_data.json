@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769271420,
-  "generated_at": 1769271420,
+  "updated_at": 1769271480,
+  "generated_at": 1769271480,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769256000,
@@ -1899,6 +1899,13 @@
       "name": "Danil",
       "username": "voxx_danil",
       "game": "crash",
+      "amount": 6600,
+      "is_win": true
+    },
+    {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "crash",
       "amount": 7600,
       "is_win": true
     },
@@ -2027,13 +2034,6 @@
       "game": "basketball",
       "amount": 10000,
       "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "basketball",
-      "amount": -5000,
-      "is_win": false
     }
   ]
 }
