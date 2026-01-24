@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769271180,
-  "generated_at": 1769271180,
+  "updated_at": 1769271240,
+  "generated_at": 1769271240,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769256000,
@@ -1913,6 +1913,13 @@
       "name": "Danil",
       "username": "voxx_danil",
       "game": "crash",
+      "amount": 1150,
+      "is_win": true
+    },
+    {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "crash",
       "amount": 660,
       "is_win": true
     },
@@ -2027,13 +2034,6 @@
       "game": "football",
       "amount": -10,
       "is_win": false
-    },
-    {
-      "name": "Error 4",
-      "username": "voxx_me",
-      "game": "blackjack",
-      "amount": 800,
-      "is_win": true
     }
   ]
 }
