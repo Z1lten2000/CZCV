@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769265619,
-  "generated_at": 1769265619,
+  "updated_at": 1769265661,
+  "generated_at": 1769265661,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769256000,
@@ -130,7 +130,7 @@
         {
           "name": "Снуп Дог пёс",
           "emoji": "🐶",
-          "price": 346,
+          "price": 1,
           "chance": 12.5319
         }
       ]
