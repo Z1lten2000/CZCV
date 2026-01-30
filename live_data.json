@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769809595,
-  "generated_at": 1769809595,
+  "updated_at": 1769809655,
+  "generated_at": 1769809655,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769860800,
@@ -1903,6 +1903,27 @@
       "is_win": true
     },
     {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "crash",
+      "amount": 100000000,
+      "is_win": true
+    },
+    {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "crash",
+      "amount": 114999999,
+      "is_win": true
+    },
+    {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "crash",
+      "amount": 114999999,
+      "is_win": true
+    },
+    {
       "name": "ㅤ ㅤ ㅤ ㅤ",
       "username": "tvmafk",
       "game": "bowling",
@@ -2012,27 +2033,6 @@
       "username": "tvmafk",
       "game": "blackjack",
       "amount": -1200000,
-      "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "blackjack",
-      "amount": 24000000,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "blackjack",
-      "amount": -12000000,
-      "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "crash",
-      "amount": -600000,
       "is_win": false
     }
   ]
