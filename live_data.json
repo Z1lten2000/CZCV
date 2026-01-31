@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769892632,
-  "generated_at": 1769892632,
+  "updated_at": 1769892692,
+  "generated_at": 1769892692,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769860800,
@@ -1939,6 +1939,41 @@
   ],
   "history": [
     {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": -1000,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": 10000,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": -5000,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": 10000,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": -100000,
+      "is_win": false
+    },
+    {
       "name": "Danil",
       "username": "voxx_danil",
       "game": "football",
@@ -2042,41 +2077,6 @@
       "game": "crash",
       "amount": -110000000,
       "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "bowling",
-      "amount": 225000000,
-      "is_win": true
-    },
-    {
-      "name": "Danil",
-      "username": "voxx_danil",
-      "game": "darts",
-      "amount": 225000000,
-      "is_win": true
-    },
-    {
-      "name": "Danil",
-      "username": "voxx_danil",
-      "game": "darts",
-      "amount": 176400000,
-      "is_win": true
-    },
-    {
-      "name": "Danil",
-      "username": "voxx_danil",
-      "game": "crash",
-      "amount": 11500000,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "darts",
-      "amount": 240000000,
-      "is_win": true
     }
   ]
 }
