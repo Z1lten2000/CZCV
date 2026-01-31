@@ -1,6 +1,6 @@
 {
-  "updated_at": 1769819818,
-  "generated_at": 1769819818,
+  "updated_at": 1769856334,
+  "generated_at": 1769856334,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1769860800,
@@ -1541,6 +1541,49 @@
           "emoji": "🦆",
           "price": 2000000,
           "chance": 11.2888
+        }
+      ]
+    },
+    {
+      "id": "super_daily",
+      "name": "⚡ SUPER DAILY",
+      "price": 0,
+      "items": [
+        {
+          "name": "Личный джет",
+          "emoji": "✈️",
+          "price": 50000000,
+          "chance": 6.6667
+        },
+        {
+          "name": "Машина Z1lten",
+          "emoji": "🏎️",
+          "price": 49343895,
+          "chance": 6.6667
+        },
+        {
+          "name": "Белоголовый орлан",
+          "emoji": "🦅",
+          "price": 25433467,
+          "chance": 13.3333
+        },
+        {
+          "name": "Lambo Huracan",
+          "emoji": "🏎",
+          "price": 15000000,
+          "chance": 20.0
+        },
+        {
+          "name": "Пентхаус Сити",
+          "emoji": "🏙",
+          "price": 5000000,
+          "chance": 26.6667
+        },
+        {
+          "name": "RTX 4090",
+          "emoji": "📟",
+          "price": 120000,
+          "chance": 26.6667
         }
       ]
     },
