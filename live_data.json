@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770045182,
-  "generated_at": 1770045182,
+  "updated_at": 1770045242,
+  "generated_at": 1770045242,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770026400,
@@ -1939,6 +1939,27 @@
   ],
   "history": [
     {
+      "name": "Давид",
+      "username": "RegoKmNj",
+      "game": "bowling",
+      "amount": 7500,
+      "is_win": true
+    },
+    {
+      "name": "Давид",
+      "username": "RegoKmNj",
+      "game": "football",
+      "amount": 10000,
+      "is_win": true
+    },
+    {
+      "name": "Давид",
+      "username": "RegoKmNj",
+      "game": "football",
+      "amount": 10000,
+      "is_win": true
+    },
+    {
       "name": "ㅤ ㅤ ㅤ ㅤ",
       "username": "tvmafk",
       "game": "blackjack",
@@ -2056,27 +2077,6 @@
       "game": "football",
       "amount": 10000,
       "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "football",
-      "amount": -5000,
-      "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "football",
-      "amount": 10000,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "football",
-      "amount": -100000,
-      "is_win": false
     }
   ]
 }
