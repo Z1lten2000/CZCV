@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770142958,
-  "generated_at": 1770142958,
+  "updated_at": 1770143018,
+  "generated_at": 1770143018,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770112800,
@@ -1939,6 +1939,13 @@
   ],
   "history": [
     {
+      "name": "Danil",
+      "username": "voxx_danil",
+      "game": "darts",
+      "amount": -5000,
+      "is_win": false
+    },
+    {
       "name": "Давид",
       "username": "RegoKmNj",
       "game": "darts",
@@ -2069,13 +2076,6 @@
       "username": "RegoKmNj",
       "game": "darts",
       "amount": 25000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 10000,
       "is_win": true
     }
   ]
