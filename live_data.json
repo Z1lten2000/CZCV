@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770410791,
-  "generated_at": 1770410791,
+  "updated_at": 1770410850,
+  "generated_at": 1770410850,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770397200,
@@ -1955,6 +1955,69 @@
       "name": "ㅤ ㅤ ㅤ ㅤ",
       "username": "tvmafk",
       "game": "crash",
+      "amount": 575,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": 575,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": 575,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": 575,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": -500,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": 575,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": 660,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": -500,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": 575,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
       "amount": 57,
       "is_win": true
     },
@@ -2020,69 +2083,6 @@
       "game": "darts",
       "amount": -5000,
       "is_win": false
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 10000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": -5000,
-      "is_win": false
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 25000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 6000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 10000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 10000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 6000,
-      "is_win": true
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": -5000,
-      "is_win": false
-    },
-    {
-      "name": "Давид",
-      "username": "RegoKmNj",
-      "game": "darts",
-      "amount": 6000,
-      "is_win": true
     },
     {
       "name": "Давид",
