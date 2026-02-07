@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770504207,
-  "generated_at": 1770504207,
+  "updated_at": 1770504400,
+  "generated_at": 1770504400,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770577200,
@@ -1596,7 +1596,13 @@
           "name": "67",
           "emoji": "🎶",
           "price": 67676767676,
-          "chance": 100.0
+          "chance": 30.0
+        },
+        {
+          "name": "76",
+          "emoji": "🎶",
+          "price": 76767676,
+          "chance": 70.0
         }
       ]
     },
