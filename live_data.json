@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770505120,
-  "generated_at": 1770505120,
+  "updated_at": 1770505180,
+  "generated_at": 1770505180,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770577200,
@@ -1958,6 +1958,48 @@
   ],
   "history": [
     {
+      "name": "Error 4",
+      "username": "voxx_me",
+      "game": "bowling",
+      "amount": 15000,
+      "is_win": true
+    },
+    {
+      "name": "Error 4",
+      "username": "voxx_me",
+      "game": "bowling",
+      "amount": -1000,
+      "is_win": false
+    },
+    {
+      "name": "Error 4",
+      "username": "voxx_me",
+      "game": "bowling",
+      "amount": 6000,
+      "is_win": true
+    },
+    {
+      "name": "Error 4",
+      "username": "voxx_me",
+      "game": "bowling",
+      "amount": -1000,
+      "is_win": false
+    },
+    {
+      "name": "Error 4",
+      "username": "voxx_me",
+      "game": "bowling",
+      "amount": 15000,
+      "is_win": true
+    },
+    {
+      "name": "Error 4",
+      "username": "voxx_me",
+      "game": "bowling",
+      "amount": 10000,
+      "is_win": true
+    },
+    {
       "name": "Danil",
       "username": "voxx_danil",
       "game": "darts",
@@ -2054,48 +2096,6 @@
       "game": "crash",
       "amount": 575,
       "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "crash",
-      "amount": 575,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "crash",
-      "amount": 575,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "crash",
-      "amount": -500,
-      "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "crash",
-      "amount": 575,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "crash",
-      "amount": 660,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "crash",
-      "amount": -500,
-      "is_win": false
     }
   ]
 }
