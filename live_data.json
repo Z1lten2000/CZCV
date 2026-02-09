@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770658014,
-  "generated_at": 1770658014,
+  "updated_at": 1770658151,
+  "generated_at": 1770658151,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770620400,
@@ -1584,25 +1584,6 @@
           "emoji": "📟",
           "price": 120000,
           "chance": 26.6667
-        }
-      ]
-    },
-    {
-      "id": "tg_six_seven",
-      "name": "67❤💋",
-      "price": 1,
-      "items": [
-        {
-          "name": "67",
-          "emoji": "🎶",
-          "price": 67676767676,
-          "chance": 30.0
-        },
-        {
-          "name": "76",
-          "emoji": "🎶",
-          "price": 76767676,
-          "chance": 70.0
         }
       ]
     },
