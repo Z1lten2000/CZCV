@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770747368,
-  "generated_at": 1770747368,
+  "updated_at": 1770747428,
+  "generated_at": 1770747428,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770728400,
@@ -1941,6 +1941,13 @@
     {
       "name": "Error 4",
       "username": "voxx_me",
+      "game": "darts",
+      "amount": -100000,
+      "is_win": false
+    },
+    {
+      "name": "Error 4",
+      "username": "voxx_me",
       "game": "crash",
       "amount": -1232101244,
       "is_win": false
@@ -2069,13 +2076,6 @@
       "username": "voxx_danil",
       "game": "bowling",
       "amount": -400000000,
-      "is_win": false
-    },
-    {
-      "name": "Danil",
-      "username": "voxx_danil",
-      "game": "basketball",
-      "amount": -1000000000,
       "is_win": false
     }
   ]
