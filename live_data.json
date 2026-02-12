@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770930953,
-  "generated_at": 1770930953,
+  "updated_at": 1770931013,
+  "generated_at": 1770931013,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1771002000,
@@ -1941,6 +1941,27 @@
     {
       "name": "ㅤ ㅤ ㅤ ㅤ",
       "username": "tvmafk",
+      "game": "crash",
+      "amount": -500000,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "crash",
+      "amount": -200000,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "football",
+      "amount": 400000,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
       "game": "basketball",
       "amount": 800000,
       "is_win": true
@@ -2055,27 +2076,6 @@
       "username": "tvmafk",
       "game": "dice",
       "amount": 200000,
-      "is_win": true
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "basketball",
-      "amount": -283000,
-      "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "basketball",
-      "amount": -1000000,
-      "is_win": false
-    },
-    {
-      "name": "ㅤ ㅤ ㅤ ㅤ",
-      "username": "tvmafk",
-      "game": "basketball",
-      "amount": 2000,
       "is_win": true
     }
   ]
