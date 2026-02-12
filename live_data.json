@@ -1,6 +1,6 @@
 {
-  "updated_at": 1770927773,
-  "generated_at": 1770927773,
+  "updated_at": 1770927834,
+  "generated_at": 1770927834,
   "happy_hour": {
     "active": false,
     "start_timestamp": 1770890400,
@@ -1941,6 +1941,20 @@
     {
       "name": "ㅤ ㅤ ㅤ ㅤ",
       "username": "tvmafk",
+      "game": "basketball",
+      "amount": -1000000,
+      "is_win": false
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
+      "game": "basketball",
+      "amount": 2000,
+      "is_win": true
+    },
+    {
+      "name": "ㅤ ㅤ ㅤ ㅤ",
+      "username": "tvmafk",
       "game": "football",
       "amount": 1282000,
       "is_win": true
@@ -2063,20 +2077,6 @@
       "game": "bowling",
       "amount": 10000,
       "is_win": true
-    },
-    {
-      "name": "Danil",
-      "username": "voxx_danil",
-      "game": "darts",
-      "amount": 120000000,
-      "is_win": true
-    },
-    {
-      "name": "Danil",
-      "username": "voxx_danil",
-      "game": "darts",
-      "amount": -400000000,
-      "is_win": false
     }
   ]
 }
