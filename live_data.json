@@ -1,10 +1,10 @@
 {
-  "updated_at": 1771361952,
-  "generated_at": 1771361952,
+  "updated_at": 1771362012,
+  "generated_at": 1771362012,
   "happy_hour": {
     "active": false,
-    "start_timestamp": 1771308000,
-    "end_timestamp": 1771311600,
+    "start_timestamp": 1771426800,
+    "end_timestamp": 1771430400,
     "discount": 0.5
   },
   "cases": [
